@@ -1,0 +1,67 @@
+{
+    "nombre": "Snoopy",
+    "descripcion": "snoopy carismatico perrito blanco que tiene una imaginacion sin fin , de raza conocida por su tamaño mediano y su pelaje predominante blanco con manchas negras y marrones anda en dos patas y nunca entra en su caseta prefiere dormir en el techo ",
+    "img_representativa":"https://i.pinimg.com/564x/06/62/8f/06628f0aba430bf9e3df891473836ef5.jpg",
+    
+    "oficios": [
+        {
+            "titulo": "aventurero",
+            "descripcion": "Snoopy se imagina a sí mismo como un piloto luchando contra su archienemigo, el Barón Rojo, volando su caseta de perro como si fuera un avión.",
+            "img": "https://cdn-3.expansion.mx/dims4/default/b2c83f0/2147483647/strip/true/crop/1600x1063+0+0/resize/1200x797!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe7%2F1c%2F07abc0a7495c98af21f716c959dc%2F02-05-snoopy-3.jpg"
+
+        },
+
+
+
+
+
+        
+        {
+            "titulo": "musico",
+            "descripcion": "snoopy tinen varios talentos musicales, incluido tocar el piano.En varios ocasiones se le vio realizando interpretaciones o imaginandose como un gran pianista.",
+            "img": "https://media.tenor.com/iQmVaYTMQ14AAAAe/snoopy-music.png"
+
+        },
+
+        
+        {
+            "titulo": "escritor",
+            "descripcion": "snoopy a menudo se siente en la puerta superior de su caseta y escribe novelas ,especialmente historias de misterio con titulo *los desafios de snoopy*.su escritorio esta lleno de papeles en los q trabaja incansablemente ",
+            "img": "https://i.pinimg.com/474x/7b/64/a9/7b64a9e05a79931d99b2a030287beb49.jpg"
+
+        },
+
+        
+        {
+            "titulo": "abogado",
+            "descripcion": "en algunas tiras comicas, snoopy se convierte el abogado de poca monta ,conocido como *enoopy y el abogado.Defiende casos en la corte imaginaginaria de la casa de charlie brown",
+            "img": "https://i.pinimg.com/originals/9f/1d/b8/9f1db8fb7aaad65e3f48678f4b9eab52.png"
+
+        },
+
+        
+        {
+            "titulo": "cocinero",
+            "descripcion": "en ocasiones snoopy se convierte en un chef y prepara todo tipo de comidas para sus amigos, su amor por la cocina se refleja en sus intentos culinarios y en su participacion en la cocina de casa .",
+            "img": "https://i.pinimg.com/564x/da/eb/86/daeb86ec53305702ad1983e0db745adc.jpg"
+
+        },
+
+        
+        {
+            "titulo": "medico",
+            "descripcion": "en algunas tiras se convierte en el *dr snoopy * ofreciendo consejos medicos y tratando a los demas 0personajes con su caracteristica estilo humoristico.",
+            "img": "https://i.pinimg.com/originals/fc/97/98/fc9798f6e9b40cec40253527569ae95b.png"
+
+        },
+
+        
+        {
+            "titulo": "detective",
+            "descripcion": "en sus momentos de detective,snoopy asume el papel de *detective de la calle * resolviendo misterios y enfrentandose a enigmas .",
+            "img": "https://i.pinimg.com/564x/f9/9c/e1/f99ce15f2109f747d8ecb2c57de54966.jpg"
+
+        }
+    ]
+
+}
