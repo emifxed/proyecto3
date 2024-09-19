@@ -1,67 +1,79 @@
 {
     "nombre": "Snoopy",
     "descripcion": "snoopy carismatico perrito blanco que tiene una imaginacion sin fin , de raza conocida por su tamaño mediano y su pelaje predominante blanco con manchas negras y marrones anda en dos patas y nunca entra en su caseta prefiere dormir en el techo ",
-    "img_representativa":"https://i.pinimg.com/564x/06/62/8f/06628f0aba430bf9e3df891473836ef5.jpg",
-    
+    "img_representativa": "https://i.pinimg.com/564x/06/62/8f/06628f0aba430bf9e3df891473836ef5.jpg",
     "oficios": [
         {
             "titulo": "aventurero",
             "descripcion": "Snoopy se imagina a sí mismo como un piloto luchando contra su archienemigo, el Barón Rojo, volando su caseta de perro como si fuera un avión.",
             "img": "https://cdn-3.expansion.mx/dims4/default/b2c83f0/2147483647/strip/true/crop/1600x1063+0+0/resize/1200x797!/format/webp/quality/60/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe7%2F1c%2F07abc0a7495c98af21f716c959dc%2F02-05-snoopy-3.jpg"
-
         },
-
-
-
-
-
-        
         {
             "titulo": "musico",
             "descripcion": "snoopy tinen varios talentos musicales, incluido tocar el piano.En varios ocasiones se le vio realizando interpretaciones o imaginandose como un gran pianista.",
             "img": "https://media.tenor.com/iQmVaYTMQ14AAAAe/snoopy-music.png"
-
         },
-
-        
         {
             "titulo": "escritor",
             "descripcion": "snoopy a menudo se siente en la puerta superior de su caseta y escribe novelas ,especialmente historias de misterio con titulo *los desafios de snoopy*.su escritorio esta lleno de papeles en los q trabaja incansablemente ",
             "img": "https://i.pinimg.com/474x/7b/64/a9/7b64a9e05a79931d99b2a030287beb49.jpg"
-
         },
-
-        
         {
             "titulo": "abogado",
             "descripcion": "en algunas tiras comicas, snoopy se convierte el abogado de poca monta ,conocido como *enoopy y el abogado.Defiende casos en la corte imaginaginaria de la casa de charlie brown",
             "img": "https://i.pinimg.com/originals/9f/1d/b8/9f1db8fb7aaad65e3f48678f4b9eab52.png"
-
         },
-
-        
         {
             "titulo": "cocinero",
             "descripcion": "en ocasiones snoopy se convierte en un chef y prepara todo tipo de comidas para sus amigos, su amor por la cocina se refleja en sus intentos culinarios y en su participacion en la cocina de casa .",
             "img": "https://i.pinimg.com/564x/da/eb/86/daeb86ec53305702ad1983e0db745adc.jpg"
-
         },
-
-        
         {
             "titulo": "medico",
             "descripcion": "en algunas tiras se convierte en el *dr snoopy * ofreciendo consejos medicos y tratando a los demas 0personajes con su caracteristica estilo humoristico.",
             "img": "https://i.pinimg.com/originals/fc/97/98/fc9798f6e9b40cec40253527569ae95b.png"
-
         },
-
-        
         {
             "titulo": "detective",
             "descripcion": "en sus momentos de detective,snoopy asume el papel de *detective de la calle * resolviendo misterios y enfrentandose a enigmas .",
             "img": "https://i.pinimg.com/564x/f9/9c/e1/f99ce15f2109f747d8ecb2c57de54966.jpg"
-
+        }
+    ],
+    "amigos": [
+        {
+            "titulo": "Carlitos",
+            "descripcion": "Carlitos, el niño cabezón de seis años, que va vestido con una camiseta con una franja de rombos negros, es lúcido, bueno, imperfecto y perdedor, y su perro Snoopy, un filósofo existencialista, poético, irreverente, libre y que duerme encima de su caseta.",
+            "img": "https://i.pinimg.com/236x/77/9e/74/779e747d171e63b3166c2b61e4d26ae7.jpg"
+        },
+        {
+            "titulo": "Woodstock",
+            "descripcion": "El pequeño pájaro con un gran corazón, siempre al lado de Snoopy como su fiel compañero Aunque sus trinos puedenparecer un galimatías para los demás, él y Snoopy comparten un lenguaje secreto de amistad y aventuras imaginarias. Juntos forman un dúo inseparable.",
+            "img": "https://i.pinimg.com/564x/6d/1d/72/6d1d724097f31e2317d3635f3bcde76e.jpg"
+        },
+        {
+            "titulo": "Lucy",
+            "descripcion": "Lucy es mucho más que una persona con opiniones firmes. Ofrece buenos consejos por solo cinco centavos y cuida de sus hermanos, Linus y Rerun. Tiene confianza, es fuerte y está segura de que algún día será una gran presidenta o reina. Su mayor debilidad es su amor no correspondido por Schroeder.",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DrkR_St7M37j2QMOu7W1Z_PV9TxzhLmRmA&s"
+        },
+        {
+            "titulo": "Linus",
+            "descripcion": "El filósofo de la pandilla, siempre con su manta de seguridad y un consejo reflexivo. Linus encuentra en Snoopy un amigo que, aunque a veces parece estar en su propio mundo, comparte una comprensión silenciosa y un aprecio mutuo.",
+            "img": "https://static.wixstatic.com/media/449abe_b0bdee9d41f84e809e86ec43fe86802d~mv2.jpg/v1/fill/w_238,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/li-color.jpg"
+        },
+        {
+            "titulo": "Sally Brown",
+            "descripcion": "La hermana menor que adora a Snoopy y lo ve como una fuente de sabiduría canina. Sus travesuras y admiración sincera por Snoopy aportan un aire de inocencia y cariño en sus aventuras.",
+            "img": "https://i.pinimg.com/236x/75/19/52/75195278c8156e4ac48c63e33ea74bf7.jpg"
+        },
+        {
+            "titulo": "Peppermint Patty",
+            "descripcion": "La deportista desenfadada con un corazón de oro, a menudo confundiendo a Snoopy con un compañero de equipo más que con una mascota. Su entusiasmo por la vida y su manera franca de relacionarse con Snoopy aportan una energía vibrante",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxP8E83W83ZnJE2KWvv-2rolqTtrgZ4nTTQ&s"
+        },
+        {
+            "titulo": "Marcie",
+            "descripcion": "La amiga tranquila y amable de Peppermint Patty, que ve a Snoopy como una figura digna de respeto. Su forma considerada y su forma de hablar suave equilibran la dinámica del grupo, ofreciendo a Snoopy una perspectiva más serena.",
+            "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJATtx6W71Qi2d6tQ9-c7u4Wp21-eXuYfMpsXPrCGbjNkEg2g2"
         }
     ]
-
 }
